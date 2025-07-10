@@ -5,7 +5,7 @@ href="https://www.linkedin.com/in/perrysamuel97/">Data Analyst</a>
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+  - [Demonstrating SQL Techniques](https://github.com/perrysamuel97/SQL_Techniques/blob/main/README.md)
 
 <h2>📚Certifications:</h2>
 
