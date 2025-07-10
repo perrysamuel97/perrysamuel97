@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1>Hi, I'm Samuel! <br/><a 
+href="https://www.linkedin.com/in/perrysamuel97/">Data Analyst</a>
+</h1>
 
-<!--
-**perrysamuel97/perrysamuel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>📊Data Analytics Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>💾SQL Project</b>
+  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📚Certifications:</h2>
+
+- <b>📜Beginner to Intermediate SQL Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills](COPY AND PASTE YOUR CERTIFICATE OF COMPLETION URL LINK HERE)
+
+<h2>📱Connect with me:</h2>
+<a href=" https://www.linkedin.com/in/perrysamuel97" target="_blank">
+  <img align="left" alt="Samuel Perry" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
