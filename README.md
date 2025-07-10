@@ -10,7 +10,10 @@ href="https://www.linkedin.com/in/perrysamuel97/">Data Analyst</a>
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](COPY AND PASTE YOUR CERTIFICATE OF COMPLETION URL LINK HERE)
+  - [Demonstrated competency in beginner to intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=73cdd3c0-63e2-46dd-a640-b5d0e4eaf061)
+    
+- <b>📜Data Analytics Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills, Excel, & PowerBI](https://www.virtualbadge.io/certificate-validator?credential=fccdfc3e-1639-419b-b4a7-27b75ab796cf)
 
 <h2>📱Connect with me:</h2>
 <a href=" https://www.linkedin.com/in/perrysamuel97" target="_blank">
